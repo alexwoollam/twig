@@ -1,0 +1,156 @@
+[
+  {
+    "oldId": 0,
+    "name": "",
+    "description": "",
+    "uri": "",
+    "image": ""
+  },
+  {
+    "oldId": 1,
+    "name": "Herbaceous Perennial",
+    "description": "Plants with non-woody stems that die back to the ground each year but regrow from the roots.",
+    "uri": "herbaceous-perennial",
+    "image": ""
+  },
+  {
+    "oldId": 2,
+    "name": "Climber Wall Shrub",
+    "description": "Plants that climb or trail along walls or other structures, often with woody stems.",
+    "uri": "climber-wall-shrub",
+    "image": ""
+  },
+  {
+    "oldId": 3,
+    "name": "Bedding",
+    "description": "Annual or perennial plants commonly used for decorative purposes in flower beds.",
+    "uri": "bedding",
+    "image": ""
+  },
+  {
+    "oldId": 4,
+    "name": "Bulbs",
+    "description": "Plants that grow from underground storage structures called bulbs, producing flowers or foliage.",
+    "uri": "bulbs",
+    "image": ""
+  },
+  {
+    "oldId": 5,
+    "name": "Ferns",
+    "description": "Non-flowering vascular plants with feathery or leathery leaves, reproducing via spores.",
+    "uri": "ferns",
+    "image": ""
+  },
+  {
+    "oldId": 6,
+    "name": "Shrubs",
+    "description": "Woody plants with multiple stems and persistent foliage, generally smaller than trees.",
+    "uri": "shrubs",
+    "image": ""
+  },
+  {
+    "oldId": 7,
+    "name": "Annual Biennial",
+    "description": "Plants that complete their life cycle in one or two years, respectively, often flowering and setting seed in the second year.",
+    "uri": "annual-biennial",
+    "image": ""
+  },
+  {
+    "oldId": 8,
+    "name": "Alpine Rockery",
+    "description": "Plants adapted to alpine or rocky environments, often low-growing and tolerant of poor soil conditions.",
+    "uri": "alpine-rockery",
+    "image": ""
+  },
+  {
+    "oldId": 9,
+    "name": "Roses",
+    "description": "Flowering plants of the genus Rosa, prized for their fragrant blooms and often grown for ornamental purposes.",
+    "uri": "roses",
+    "image": ""
+  },
+  {
+    "oldId": 10,
+    "name": "Grass Like",
+    "description": "Plants resembling grass in appearance or growth habit, but not necessarily belonging to the grass family.",
+    "uri": "grass-like",
+    "image": ""
+  },
+  {
+    "oldId": 11,
+    "name": "Conservatory Greenhouse",
+    "description": "Plants suited for indoor cultivation in controlled environments like conservatories or greenhouses.",
+    "uri": "conservatory-greenhouse",
+    "image": ""
+  },
+  {
+    "oldId": 12,
+    "name": "Fruit Edible",
+    "description": "Plants grown for their edible fruits, including trees, shrubs, and vines.",
+    "uri": "fruit-edible",
+    "image": ""
+  },
+  {
+    "oldId": 13,
+    "name": "Trees",
+    "description": "Woody plants usually with a single stem or trunk, characterized by a longer lifespan and greater height compared to shrubs.",
+    "uri": "trees",
+    "image": ""
+  },
+  {
+    "oldId": 14,
+    "name": "Houseplants",
+    "description": "Plants cultivated indoors for decorative or functional purposes.",
+    "uri": "houseplants",
+    "image": ""
+  },
+  {
+    "oldId": 15,
+    "name": "Cactus Succulent",
+    "description": "Plants adapted to arid environments, characterized by water-storing tissues and reduced leaves.",
+    "uri": "cactus-succulent",
+    "image": ""
+  },
+  {
+    "oldId": 16,
+    "name": "Aquatic",
+    "description": "Plants adapted to live in water or in waterlogged soil.",
+    "uri": "aquatic",
+    "image": ""
+  },
+  {
+    "oldId": 17,
+    "name": "Bamboos",
+    "description": "Tall, woody grasses belonging to the subfamily Bambusoideae, known for their rapid growth and versatile uses.",
+    "uri": "bamboos",
+    "image": ""
+  },
+  {
+    "oldId": 18,
+    "name": "Bogs",
+    "description": "Plants adapted to acidic and waterlogged environments, often found in peatlands or bogs.",
+    "uri": "bogs",
+    "image": ""
+  },
+  {
+    "oldId": 19,
+    "name": "Conifers",
+    "description": "Gymnospermous plants with needle-like or scale-like leaves and typically producing cones.",
+    "uri": "conifers",
+    "image": ""
+  },
+  {
+    "oldId": 20,
+    "name": "Herbs - Culinary",
+    "description": "Plants cultivated for culinary, medicinal, or aromatic purposes, often characterized by soft, non-woody stems.",
+    "uri": "herbs-culinary",
+    "image": ""
+  },
+  {
+    "oldId": 21,
+    "name": "Palms",
+    "description": "Tropical or subtropical plants with a characteristic unbranched stem and large, often feather-shaped leaves.",
+    "uri": "palms",
+    "image": ""
+  }
+]

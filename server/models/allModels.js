@@ -1,0 +1,9 @@
+require('./plant');
+require('./plantType');
+require('./sunlight');
+require('./exposure');
+require('./aspect');
+require('./foliage');
+require('./habit');
+require('./moisture');
+require('./ph');

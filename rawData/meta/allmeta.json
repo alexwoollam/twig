@@ -1,0 +1,164 @@
+{
+  "exposure": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Sheltered"
+    },
+    {
+      "oldId": 2,
+      "name": "Exposed"
+    }
+  ],
+  "aspect": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "East-facing"
+    },
+    {
+      "oldId": 2,
+      "name": "North-facing"
+    },
+    {
+      "oldId": 3,
+      "name": "South-facing"
+    },
+    {
+      "oldId": 4,
+      "name": "West-facing"
+    }
+  ],
+  "moisture": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Well–drained"
+    },
+    {
+      "oldId": 2,
+      "name": "Poorly–drained"
+    },
+    {
+      "oldId": 3,
+      "name": "Moist but well–drained"
+    }
+  ],
+  "ph": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Acid"
+    },
+    {
+      "oldId": 2,
+      "name": "Alkaline"
+    },
+    {
+      "oldId": 3,
+      "name": "Neutral"
+    }
+  ],
+  "foliage": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Deciduous"
+    },
+    {
+      "oldId": 2,
+      "name": "Evergreen"
+    },
+    {
+      "oldId": 3,
+      "name": "Semi evergreen"
+    }
+  ],
+  "habit": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Bushy"
+    },
+    {
+      "oldId": 2,
+      "name": "Climbing"
+    },
+    {
+      "oldId": 3,
+      "name": "Clump forming"
+    },
+    {
+      "oldId": 4,
+      "name": "Columnar upright"
+    },
+    {
+      "oldId": 5,
+      "name": "Floating"
+    },
+    {
+      "oldId": 6,
+      "name": "Matforming"
+    },
+    {
+      "oldId": 7,
+      "name": "Pendulous weeping"
+    },
+    {
+      "oldId": 8,
+      "name": "Spreading branched"
+    },
+    {
+      "oldId": 9,
+      "name": "Submerged"
+    },
+    {
+      "oldId": 10,
+      "name": "Suckering"
+    },
+    {
+      "oldId": 11,
+      "name": "Trailing"
+    },
+    {
+      "oldId": 12,
+      "name": "Tufted"
+    }
+  ],
+  "sunlight": [
+    {
+      "oldId": 0,
+      "name": ""
+    },
+    {
+      "oldId": 1,
+      "name": "Full sun"
+    },
+    {
+      "oldId": 2,
+      "name": "Partial shade"
+    },
+    {
+      "oldId": 3,
+      "name": "Full shade"
+    }
+  ]
+}

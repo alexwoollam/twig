@@ -1,0 +1,30 @@
+.button {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.fine {
+    composes: button;
+    background: #4CAF50;
+}
+
+.fine:hover, .fine:active,.fine:focus {
+    background: #377c39;
+}
+
+.error{
+    composes: button;
+    background: #a04343;
+}
+
+.error:hover, .error:active,.error:focus {
+    background: #a04343;
+}

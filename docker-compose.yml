@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    expose:
+      - '27017'
+    ports:
+      - '27017:27017'
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongousradmin
+      MONGO_INITDB_ROOT_PASSWORD: mongopassadmin
+      MONGO_INITDB_DATABASE: container
+    networks:
+      - app
+
+  express:
+    build:
+      context: .
+      dockerfile: Dockerfile.express
+    container_name: express
+    ports:
+      - '3000:3000'
+    depends_on:
+      - mongodb
+    environment:
+      - MONGO_URI=mongodb://mongousradmin:mongopassadmin@mongodb:27017
+    volumes:
+      - .:/usr/src/app
+    networks:
+      - app
+
+networks:
+  app:
+    driver: bridge
+
+volumes:
+  mongodb_data:

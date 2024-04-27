@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "title": "Dashboard",
+      "help": "This is your user dashboard.",
+      "icon": "faGauge",
+      "uri": "/dashboard",
+      "active": true
+    },
+    {
+      "title": "User Settings",
+      "help": "Manage your account settings here.",
+      "icon": "faCog",
+      "uri": "/dashboard/settings",
+      "active": true
+    },
+    {
+      "title": "Your Plants",
+      "help": "View and manage your plants.",
+      "icon": "faLeaf",
+      "uri": "/dashboard/your-plants",
+      "active": true
+    },
+    {
+      "title": "Plant browser",
+      "help": "View all the plants.",
+      "icon": "faLeaf",
+      "uri": "/dashboard/plants",
+      "active": true
+    },
+    {
+      "title": "Plant Categories",
+      "help": "Explore different categories of plants.",
+      "icon": "faSitemap",
+      "uri": "/dashboard/plant-categories",
+      "active": true
+    },
+    {
+      "title": "Friends",
+      "help": "Connect with your friends.",
+      "icon": "faUsers",
+      "uri": "/dashboard/friends",
+      "active": true
+    }
+  ]
+}
